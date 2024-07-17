@@ -2,6 +2,8 @@
 
 This project explores patterns in personal text messaging behavior using data science and natural language processing (NLP) techniques. Leveraging libraries such as Pandas, Numpy, and NLTK, and visualizing the results with Matplotlib, this project aims to gain insights into communication styles and texting habits.
 
+To see all the visualizations, view the [`visualizations.ipynb` notebook file](https://github.com/chroline/text-message-analysis/blob/main/visualizations.ipynb).
+
 ## Technologies Used
 
 - **Pandas**: Data manipulation and analysis.

@@ -1,0 +1,7 @@
+.venv
+.idea
+
+all_texts.jsonl
+all_texts.pkl
+
+imessages.jsonl
